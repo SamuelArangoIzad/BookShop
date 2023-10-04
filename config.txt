@@ -1,0 +1,2 @@
+adminUsername=empleado
+adminPassword=11167741098

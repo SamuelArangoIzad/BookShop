@@ -1,0 +1,33 @@
+Title: Cien A¤os De Soledad
+Patron: usuario1
+Date: 2023-9-30
+Contact Number: 3189482781
+Index: 0
+-----------------------------
+Title: Cien A¤os De Soledad
+Patron: usuario1
+Return Date: 2023-9-30
+Index: 0
+-----------------------------
+Title: La Voragine
+Patron: usuario1
+Date: 2023-9-30
+Contact Number: 1237856472
+Index: 1
+-----------------------------
+Title: La Voragine
+Patron: usuario1
+Return Date: 2023-9-30
+Index: 1
+-----------------------------
+Title: La Voragine
+Patron: Samuel
+Date: 2023-10-3
+Contact Number: 3178926372
+Index: 1
+-----------------------------
+Title: La Voragine
+User: Samuel
+Return Date: 2023-10-3
+Index: 1
+-----------------------------
