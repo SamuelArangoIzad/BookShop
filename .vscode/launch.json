@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/samue/Desktop/Documentos/Proyectos/Bookshop C++ [EN PROGRESO]",
-      "program": "c:/Users/samue/Desktop/Documentos/Proyectos/Bookshop C++ [EN PROGRESO]/build/Debug/outDebug",
+      "cwd": "c:/Users/samue/Desktop/Documentos/Proyectos/Bookshop C++ [COMPLETADO]",
+      "program": "c:/Users/samue/Desktop/Documentos/Proyectos/Bookshop C++ [COMPLETADO]/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
